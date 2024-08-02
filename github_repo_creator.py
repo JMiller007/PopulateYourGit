@@ -6,7 +6,7 @@ from tkinter import messagebox, filedialog
 
 # Replace with your GitHub username and personal access token
 GITHUB_USERNAME = 'JMiller007'
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = ''
 GITHUB_API_URL = 'https://api.github.com'
 
 README_CONTENT = """# Project Title
