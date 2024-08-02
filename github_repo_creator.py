@@ -11,7 +11,7 @@ GITHUB_API_URL = 'https://api.github.com'
 
 README_CONTENT = """# Project Title
 
-A brief description of what this project does and who it's for.
+A brief description of what this project does and who it's for. (Added by PopulateYourGit from JMiller007)
 """
 
 LICENSE_CONTENT = """MIT License
